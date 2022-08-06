@@ -16,7 +16,7 @@ No License Chosen
 
 - https://text-editor-connor.herokuapp.com/
 
-![screenshot]("screenshot.png")
+![screenshot](screenshot.png)
 
 ## Installation
 - In browser
