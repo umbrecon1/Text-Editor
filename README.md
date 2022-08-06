@@ -13,7 +13,10 @@ No License Chosen
 - A web application that can be used offline to create notes or code snippets without an internet connection.
 
 ## Application Preview
-<img alt="README Gen Demo 1" src="">node 
+
+- https://text-editor-connor.herokuapp.com/
+
+![screenshot]("screenshot.png")
 
 ## Installation
 - In browser
